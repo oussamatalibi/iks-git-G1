@@ -1,0 +1,57 @@
+! = <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+
+
+<p></p> = Paragraphe.
+
+<div></div> = Division.
+
+<h1></h1> = Titre.
+
+<h2></h2> = Sous-titre.
+
+<h3></h3> = Sous-sous-titre.
+
+<h4></h4> = Sous-sous-sous-titre.
+
+<h5></h5> = Sous-sous-sous-sous-titre.
+
+<h6></h6> = Sous-sous-sous-sous-sous-titre.
+
+<label for="name" >Name of student</label>
+<input type="text" name="name" id="name_name" placeholder="Write the name of student"> = To enter Something in place.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
